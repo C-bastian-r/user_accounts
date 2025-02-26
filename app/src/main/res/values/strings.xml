@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">user_accounts</string>
+
+    <string name="tvTtile">Manejador de usuarios</string>
+    <string name="etDocument">Documento</string>
+    <string name="etUserName">Nombre de usuario</string>
+    <string name="etNames">Nombres</string>
+    <string name="etLastNames">Apellidos</string>
+    <string name="etPassword">Contraseña</string>
+
+    <string name="btnRegister">Registrar</string>
+    <string name="btnSearch">Buscar</string>
+    <string name="btnList">Listar</string>
+    <string name="btnDelete">Borrar</string>
+
+</resources>
